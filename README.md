@@ -8,4 +8,4 @@ Steps:
 * Fetches all PubMed IDs (PMIDs) of the query Affiliation.
 * Fetches metadata of all PMIDs from the previous step.
 * Performs necessary cleanings of the text data to be plotted.
-* Plots text data as word clouds.
+* Plots text data as word clouds (and saves plots as png files).
